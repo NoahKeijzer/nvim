@@ -84,6 +84,11 @@ _G.packer_plugins = {
     path = "/Users/noahdekeijzer/.local/share/nvim/site/pack/packer/start/cmp-buffer",
     url = "https://github.com/hrsh7th/cmp-buffer"
   },
+  ["cmp-nvim-lsp"] = {
+    loaded = true,
+    path = "/Users/noahdekeijzer/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp",
+    url = "https://github.com/hrsh7th/cmp-nvim-lsp"
+  },
   ["cmp-path"] = {
     loaded = true,
     path = "/Users/noahdekeijzer/.local/share/nvim/site/pack/packer/start/cmp-path",
@@ -103,6 +108,16 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/noahdekeijzer/.local/share/nvim/site/pack/packer/start/harpoon",
     url = "https://github.com/theprimeagen/harpoon"
+  },
+  ["lspkind.nvim"] = {
+    loaded = true,
+    path = "/Users/noahdekeijzer/.local/share/nvim/site/pack/packer/start/lspkind.nvim",
+    url = "https://github.com/onsails/lspkind.nvim"
+  },
+  ["lspsaga.nvim"] = {
+    loaded = true,
+    path = "/Users/noahdekeijzer/.local/share/nvim/site/pack/packer/start/lspsaga.nvim",
+    url = "https://github.com/glepnir/lspsaga.nvim"
   },
   ["nvim-cmp"] = {
     loaded = true,
@@ -150,6 +165,11 @@ _G.packer_plugins = {
     path = "/Users/noahdekeijzer/.local/share/nvim/site/pack/packer/start/telescope.nvim",
     url = "https://github.com/nvim-telescope/telescope.nvim"
   },
+  ["typescript.nvim"] = {
+    loaded = true,
+    path = "/Users/noahdekeijzer/.local/share/nvim/site/pack/packer/start/typescript.nvim",
+    url = "https://github.com/jose-elias-alvarez/typescript.nvim"
+  },
   undotree = {
     loaded = true,
     path = "/Users/noahdekeijzer/.local/share/nvim/site/pack/packer/start/undotree",
@@ -159,6 +179,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/noahdekeijzer/.local/share/nvim/site/pack/packer/start/vim-fugitive",
     url = "https://github.com/tpope/vim-fugitive"
+  },
+  ["vim-tmux-navigator"] = {
+    loaded = true,
+    path = "/Users/noahdekeijzer/.local/share/nvim/site/pack/packer/start/vim-tmux-navigator",
+    url = "https://github.com/christoomey/vim-tmux-navigator"
   }
 }
 
